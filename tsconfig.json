@@ -1,4 +1,3 @@
-// TODO
 {
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig.json to read more about this file */
@@ -98,5 +97,5 @@
     // "skipDefaultLibCheck": true,                      /* Skip type checking .d.ts files that are included with TypeScript. */
     "skipLibCheck": true                                 /* Skip type checking all .d.ts files. */
   },
-  "include": ["src/**/*", "app.ts", "app.js"]
+  "include": ["src/**/*", "src/app.ts", "app.js"]
 }
